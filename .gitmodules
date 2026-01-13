@@ -1,0 +1,4 @@
+[submodule "Megatron-LM"]
+	path = Megatron-LM
+	url = https://github.com/amd-fuweiy/Megatron-LM.git
+	branch = core_v0.15.0-rocm_fix
